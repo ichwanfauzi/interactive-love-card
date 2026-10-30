@@ -1,28 +1,28 @@
-# 🌐 Ichwan Fauzi - Professional Personal Portfolio
+# 💖 Interactive Love Greeting Web Card
 
-> Website portofolio pribadi Muhammad Ichwan Fauzi yang menampilkan keahlian di bidang Internet of Things (IoT), Computer Networking, Web Development, dan Computer Vision.
+> Tampilan kartu ucapan / pesan interaktif berbasis web dengan animasi CSS kreatif dan pesan yang dapat disesuaikan.
 
 ---
 
 ## 🌟 Fitur Utama
 
-- 👨‍💻 **About Me & Skills:** Rincian keahlian teknis (ESP32, Python, Kotlin, React, Networking, Snort IDS).
-- 🚀 **Featured Projects:** Tampilan proyek-proyek utama beserta tautan repositori dan demonya.
-- 📄 **Interactive Resume / Curriculum Vitae:** Ringkasan pengalaman organisasi, pengajaran laboratorium, dan pendidikan.
+- ✨ **Interactive Animations:** Efek animasi CSS interaktif saat tombol atau elemen diklik.
+- 🎵 **Audio / Visual Effects:** Efek visual halus dan pemutaran latar musik (opsional).
+- 📱 **Responsive Design:** Tampilan rapi saat dibuka melalui perangkat seluler (*smartphone*).
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React / Vite / Tailwind CSS / HTML-CSS-JS
-- **Hosting / Deployment:** GitHub Pages / Vercel
+- **HTML5, CSS3, JavaScript**
 
 ---
 
 ## 🚀 Cara Menjalankan
 
+ Cukup *clone* repositori dan buka berkas `index.html` langsung di *browser* Anda:
+
 ```bash
-git clone [https://github.com/ichwanfauzi/ichwanfauzi-personal-portfolio.git](https://github.com/ichwanfauzi/ichwanfauzi-personal-portfolio.git)
-cd ichwanfauzi-personal-portfolio
-npm install
-npm run dev
+git clone [https://github.com/ichwanfauzi/interactive-love-card.git](https://github.com/ichwanfauzi/interactive-love-card.git)
+cd interactive-love-card
+# Buka index.html
